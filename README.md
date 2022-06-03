@@ -12,4 +12,4 @@
 
 ### Takeaways
 - Pacticed adding Fastify node-fetch and initializing folder as a Node.js project
-- Practiced handling returned Promise using node-fetch with .then() and .catch() method(s)
+- Practiced handling returned Promise using node-fetch in JSON with .then() and .catch() method(s)
